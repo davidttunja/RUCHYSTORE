@@ -20,8 +20,6 @@ Sistema de gestión para tienda de ropa que incluye:
 4. Ejecutar el proyecto
 
 ## Desarrolladores
-- [Tu nombre]
-- [Colaboradores si los hay]
-
+JOSHUA DAVID TUNJA MACIAS
 ## Licencia
 MIT
